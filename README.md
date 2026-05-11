@@ -12,6 +12,7 @@ Internet of Medical Things (IoMT) devices continuously transmit physiological vi
 | **Clinical domain knowledge** | Not exploited | PPF enforces per-channel plausibility bounds |
 
 ---
+## Architecture
 
 ## Architecture Components
 
