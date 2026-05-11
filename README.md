@@ -13,6 +13,7 @@ Internet of Medical Things (IoMT) devices continuously transmit physiological vi
 
 ---
 ## Architecture
+<img width="2720" height="1568" alt="fig 1" src="https://github.com/user-attachments/assets/7d2c3e89-3fb2-4ddd-b45b-c0dee8847a9b" />
 
 ## Architecture Components
 
